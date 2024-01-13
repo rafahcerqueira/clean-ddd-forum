@@ -9,7 +9,7 @@ export class Slug {
      * EN: Receives a string and normalize it as a slug ||
      * PT: Recebe uma string e transforma em um slug
      * 
-     * Example: "An example title" => "an-example-title"
+     * @example "An example title" => "an-example-title"
      * 
      * @param text {string}
      */
